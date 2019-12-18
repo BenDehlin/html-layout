@@ -1,0 +1,84 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: white;
+}
+.top-content{
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+  height: 25vh;
+  width: auto;
+  padding: 1vh 1vw;
+  margin: 1vh 1vw;
+
+}
+.middle-content{
+  border-style: dotted;
+  border-color: black;
+  border-width: 5px;
+  height: 25vh;
+  width: auto;
+  padding: 5vh 5vw;
+  margin: 1vh 1vw;
+}
+.bottom-content{
+  height: 25vh;
+  width: auto;
+  padding: 1vh 1vw;
+  margin: 1vh 1vw;
+}
+
+.purple-box{
+  background-color: purple;
+  height: 15vh;
+  width: 30px;
+  display: inline-block;
+  margin-top: 10vh;
+  margin-right: 5vw;
+
+}
+.green-box{
+  background-color: green;
+  height: 20vh;
+  width: 40vw;
+  display: inline-block;
+  margin-top: 5vh;
+  margin-right: 5vw;
+}
+.teal-circle{
+  height: 20vh;
+  width: 20vh;
+  background-color: cyan;
+  border-radius: 50%;
+  display: inline-block;
+  margin-top: 5vh;
+}
+.beige-box{
+  height: 22vh;
+  width: auto;
+  background-color: beige;
+  box-shadow: 10px 10px 10px;
+}
+.hello-friends{
+  height: 28vh;
+  width: 30vw;
+  background-color: white;
+  margin: auto 30vw;
+  box-shadow: 5px 5px 10px;
+}
+
+.centered-text{
+  font-family: "Times New Roman", Times;
+  font-size: 25px;
+  font-weight: bold;
+  color: navy;
+  display: block;
+  text-align: center;
+  letter-spacing: 4px;
+  padding-top: 10vh;
+  filter: blur(.7px);
+}

@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  background-color: gainsboro;
+  height: 14vh;
+  width: auto;
+  padding: 2vh;
+}
+
+.main-content{
+  background-color: white;
+  height: 18vh;
+  width: auto;
+  padding: 6vh 6vw;
+  text-align: justify;
+  font-size: 4vh;
+  overflow-x: scroll;
+}
+
+.blue-square{
+  background-color: blue;
+  height: 13vh;
+  width: 13vh;
+  margin-left: 2vh;
+}
+
+.blue{
+  background-color: blue;
+  height: 14vh;
+}
+
+.cyan{
+  background-color: cyan;
+  height: 14vh;
+}
+
+.light-green{
+  background-color: lightgreen;
+  height: 14vh;
+}
+
+.yellow{
+  background-color: yellow;
+  height: 14vh;
+}
