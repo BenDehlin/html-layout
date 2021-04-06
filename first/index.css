@@ -27,3 +27,7 @@ body {
   height: 100px;
   margin: auto 10%;
 }
+
+.something-else{
+  background-color: green;
+}
